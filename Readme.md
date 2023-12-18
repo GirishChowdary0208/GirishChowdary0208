@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GirishChowdary0208](https://github.com/GirishChowdary0208)
 
-- 📫 How to reach me **mupparajugirishchowdaey@gmail.com**
+- 📫 How to reach me **mupparajugirishchowdary@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/girish-chowdary-919b6522b/](https://www.linkedin.com/in/girish-chowdary-919b6522b/)
 
