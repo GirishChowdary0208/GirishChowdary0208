@@ -10,7 +10,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [Autonomous Driving System](https://github.com/GirishChowdary0208/Lane_Detection_Using_ENet)
+- 🔭 I’m currently working on [Quadpod]
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Neural Networks, DSA, and other Programming Languages**
 
