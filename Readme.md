@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://twitter.com/_girishchowdary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_girishchowdary" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/girish chowdary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girish chowdary" height="30" width="40" /></a>
-<a href="https://kaggle.com/girish chowdary22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="girish chowdary22" height="30" width="40" /></a>
+<a href="https://kaggle.com/girishchowdary22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="girish chowdary22" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mupparajugirish1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mupparajugirish1" height="30" width="40" /></a>
 </p>
 
